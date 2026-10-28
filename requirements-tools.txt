@@ -1,4 +1,4 @@
-black==26.5.1
+black==26.10.1
 ruff==0.16.4
 poethepoet
 ty==0.0.74
